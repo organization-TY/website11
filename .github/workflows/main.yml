@@ -1,4 +1,4 @@
-name: organization-TY-myapp
+name: TY-myapp
 on: push
 jobs:
   build-and-deply:
